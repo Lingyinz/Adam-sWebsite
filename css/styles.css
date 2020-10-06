@@ -1,0 +1,128 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.9375rem;
+  margin:85px auto 25px auto;
+  color: #fce38a;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #fce38a;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #fce38a;
+  padding-bottom: 15px;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: #fce38a;
+  margin: auto 20px auto 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+hr {
+  border: none;
+  border-top: 1px dotted #fce38a;
+  border-width: 10px;
+  width: 4%;
+  margin: 75px auto 75px auto;
+}
+
+.top-container {
+  background-color: #f38181;
+  padding-top: 75px;
+}
+
+.middle-container {
+  padding-top: 75px;
+}
+
+.bottom-container {
+  background-color: #C94247;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.TopCloud {
+  position: absolute;
+  top: 40px;
+  right: 230px;
+}
+
+.BotCloud {
+  position: absolute;
+  bottom: 300px;
+  left: 200px;
+}
+
+.mountain{
+  margin-top: 40px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.software-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.paint-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.width_30{
+  width: 30%;
+  margin: 25px auto 25px auto;
+}
+
+.copyright {
+  color: white;
+  font-size: .8rem;
+  margin-top: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #C94247;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 50px auto 75px auto;
+}
+
+.btn:hover {
+  background: #F38181;
+  text-decoration: none;
+}
